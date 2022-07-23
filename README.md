@@ -75,6 +75,7 @@ At the moment following sensor data can be read:
 - HPM_P2
 - SHT3X_temperature
 - SHT3X_humidity
+- DS18B20_temperature
 
 Sensor type `signal` gives the wifi signal strength of the sensor device.
 
